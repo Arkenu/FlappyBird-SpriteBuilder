@@ -179,7 +179,7 @@
                 cloud.position = ccp(cloud.position.x +
                                      2 * cloud.contentSize.width, cloud.position.y);
             }
-
+}
         
     }
     
@@ -229,3 +229,5 @@
 }
 
 @end
+
+
